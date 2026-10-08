@@ -1,5 +1,7 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.8.1/AmazonRPAPanel-Setup.exe",
-  "notes": "v1.8.1 : correction du verificateur de mises a jour (suit desormais les redirections ; le flux par defaut passe sur une URL sans redirection). Plus le lot 1.8.0 : sante des comptes, surveillance proxy, rodage, paliers de licence + usage, sauvegarde chiffree, niches et Q&R/video. Installation 1 clic par-dessus l'ancienne version."
+  "version": "1.9.0",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.9.0/AmazonRPAPanel-Setup.exe",
+  "sha256": "1e9b14cb6b6e5515d8f15ffefdc0fb5243a70e2bef92e587b728eb4419dd7383",
+  "size": 116454198,
+  "notes": "v1.9.0 : mises a jour automatiques. Le panneau telecharge, verifie (sha256) et installe tout seul quand aucune session ne tourne. Installation 1 clic par-dessus l'ancienne version. Cette version est la derniere a installer a la main."
 }
