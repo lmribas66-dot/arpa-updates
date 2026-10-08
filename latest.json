@@ -1,10 +1,10 @@
 {
-  "version": "1.10.2",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.2/AmazonRPAPanel-Setup.exe",
-  "sha256": "444870b0f5e0c9d172dea949fedd3fbe8524062316befb54eb0d5754c11f7df4",
-  "size": 116410495,
-  "notes": "v1.10.2 : proxy de chaque profil visible, avec une date de fin.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.2/AmazonRPAPanel-patch-1.10.2.zip",
-  "patchSha256": "ada6458b7ba24500637f1addbbac41dbd010d51fd484cfbd34fdb60cc38008b9",
-  "patchSize": 919503
+  "version": "1.10.3",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.3/AmazonRPAPanel-Setup.exe",
+  "sha256": "f5560d43bc6a35afd86abb6c2d67400536e16f24f85db0a012ab4b18befbe823",
+  "size": 116414703,
+  "notes": "v1.10.3 : creer un profil AdsPower (proxy, email, mot de passe Amazon, cookies). Le profil s'ouvre connecte.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.3/AmazonRPAPanel-patch-1.10.3.zip",
+  "patchSha256": "2199b72dfea6444a60628a254ffd65f24f3558f2845ec37ebf2680dc8d4200f9",
+  "patchSize": 923004
 }
