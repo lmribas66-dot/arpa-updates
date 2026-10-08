@@ -1,0 +1,5 @@
+{
+  "version": "1.8.0",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.8.0/AmazonRPAPanel-Setup.exe",
+  "notes": "v1.8.0 : sante des comptes (score + feu vert/orange/rouge, repos auto des profils a risque), surveillance proxy (alerte si le pays de l'IP change), rodage des comptes neufs (montee en charge progressive, pas de liste d'envies au debut), paliers de licence (Basic/Pro/Full avec max profils et quota mensuel) + metrage d'usage, sauvegarde/restauration chiffree de la config (migration de poste), niches par profil et consultation Questions-Reponses / video produit. Installation 1 clic par-dessus l'ancienne version."
+}
