@@ -1,10 +1,10 @@
 {
-  "version": "1.10.1",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.1/AmazonRPAPanel-Setup.exe",
-  "sha256": "271dd1669665079f778fe499e895f1fdfbbef34334618fd3d7587f63f11b6e58",
-  "size": 116466281,
-  "notes": "v1.10.1 : ecran Reglages allege. L'essentiel reste visible, le reste est sous Avance. Aucune fonction retiree.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.1/AmazonRPAPanel-patch-1.10.1.zip",
-  "patchSha256": "e439431fb6bcd6112a98a5b8f860d9640ce0524842a1d66785edfee8b332f105",
-  "patchSize": 918529
+  "version": "1.10.2",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.2/AmazonRPAPanel-Setup.exe",
+  "sha256": "444870b0f5e0c9d172dea949fedd3fbe8524062316befb54eb0d5754c11f7df4",
+  "size": 116410495,
+  "notes": "v1.10.2 : proxy de chaque profil visible, avec une date de fin.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.2/AmazonRPAPanel-patch-1.10.2.zip",
+  "patchSha256": "ada6458b7ba24500637f1addbbac41dbd010d51fd484cfbd34fdb60cc38008b9",
+  "patchSize": 919503
 }
