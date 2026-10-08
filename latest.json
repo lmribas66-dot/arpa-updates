@@ -1,7 +1,10 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.9.0/AmazonRPAPanel-Setup.exe",
-  "sha256": "1e9b14cb6b6e5515d8f15ffefdc0fb5243a70e2bef92e587b728eb4419dd7383",
-  "size": 116454198,
-  "notes": "v1.9.0 : mises a jour automatiques. Le panneau telecharge, verifie (sha256) et installe tout seul quand aucune session ne tourne. Installation 1 clic par-dessus l'ancienne version. Cette version est la derniere a installer a la main."
+  "version": "1.10.0",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.0/AmazonRPAPanel-Setup.exe",
+  "sha256": "2556a6ba95deac78d130ec179331786e13b9320a0e783d8768507d1bc114f35b",
+  "size": 116468116,
+  "notes": "v1.10.0 : patch leger, commandes Nexus (update/report/freeze), alerte quota 80%, feries/Prime Day, garde idle, skip proxy/pays, liste noire captcha, mode employe + pack client, rodage wizard, compare/boutique.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.0/AmazonRPAPanel-patch-1.10.0.zip",
+  "patchSha256": "be6c7db743b14494c6a5f365f3d7d1a809b687cd8d035e60ecbcdb3f4337b2e5",
+  "patchSize": 918014
 }
