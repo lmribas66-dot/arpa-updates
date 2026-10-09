@@ -1,10 +1,10 @@
 {
-  "version": "1.10.4",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.4/AmazonRPAPanel-Setup.exe",
-  "sha256": "083e20866f1c46fc3a3a93a2fd751800c3dcb4e52eb0be93897419b40e235a2b",
-  "size": 116395335,
-  "notes": "v1.10.4 : modele de profil (groupe et proxy). Le site Amazon se choisit a chaque profil.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.4/AmazonRPAPanel-patch-1.10.4.zip",
-  "patchSha256": "b88497f61742841587349297dbde6fc7bebe68c0e89be137edcd41ec2066b719",
-  "patchSize": 924063
+  "version": "1.10.5",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.5/AmazonRPAPanel-Setup.exe",
+  "sha256": "51c32d5097e7c971fb7f306e4ec9b2b9d3805dd4eea4837bb556868c68daa33f",
+  "size": 116470678,
+  "notes": "v1.10.5 : Suivi test (mails GMX/Hotmail), dossiers Stock Nexus, alerte Colissimo, nouveaux profils Chrome iOS uniquement.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.5/AmazonRPAPanel-patch-1.10.5.zip",
+  "patchSha256": "3f1e8c83d2ec9cb7e11708952f22c8d091410679062f8d175400d0b441e9089e",
+  "patchSize": 943745
 }
