@@ -1,10 +1,10 @@
 {
-  "version": "1.10.6",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.6/AmazonRPAPanel-Setup.exe",
-  "sha256": "caae4cc80dc787d95b617cf3e0f607a906bbb5c0ebae3614936870c2fb72c2c3",
-  "size": 116426850,
-  "notes": "v1.10.6 : GMX.com lit les mails (imap.gmx.com). Active POP3/IMAP dans le webmail GMX si besoin.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.6/AmazonRPAPanel-patch-1.10.6.zip",
-  "patchSha256": "58e88ebbb645224e914deb165d32668d29d5a774051d31dbcf4e61cdb0944652",
-  "patchSize": 944556
+  "version": "1.10.7",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.7/AmazonRPAPanel-Setup.exe",
+  "sha256": "374f474f4adb5e67a8b617e99a4a3b971d876618d4eff98ee44c17ead0d6dee7",
+  "size": 116404861,
+  "notes": "v1.10.7 : onglet Suivi (plus test), Valider tous, guide employe. Setup toujours non signe (pas de certificat PFX).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.7/AmazonRPAPanel-patch-1.10.7.zip",
+  "patchSha256": "61631fc2f218b363bbb59297a5c93385672c5544782344896b7d8ff7caac1048",
+  "patchSize": 945131
 }
