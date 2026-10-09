@@ -1,10 +1,10 @@
 {
-  "version": "1.10.5",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.5/AmazonRPAPanel-Setup.exe",
-  "sha256": "51c32d5097e7c971fb7f306e4ec9b2b9d3805dd4eea4837bb556868c68daa33f",
-  "size": 116470678,
-  "notes": "v1.10.5 : Suivi test (mails GMX/Hotmail), dossiers Stock Nexus, alerte Colissimo, nouveaux profils Chrome iOS uniquement.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.5/AmazonRPAPanel-patch-1.10.5.zip",
-  "patchSha256": "3f1e8c83d2ec9cb7e11708952f22c8d091410679062f8d175400d0b441e9089e",
-  "patchSize": 943745
+  "version": "1.10.6",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.6/AmazonRPAPanel-Setup.exe",
+  "sha256": "caae4cc80dc787d95b617cf3e0f607a906bbb5c0ebae3614936870c2fb72c2c3",
+  "size": 116426850,
+  "notes": "v1.10.6 : GMX.com lit les mails (imap.gmx.com). Active POP3/IMAP dans le webmail GMX si besoin.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.6/AmazonRPAPanel-patch-1.10.6.zip",
+  "patchSha256": "58e88ebbb645224e914deb165d32668d29d5a774051d31dbcf4e61cdb0944652",
+  "patchSize": 944556
 }
