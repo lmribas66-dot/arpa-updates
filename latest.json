@@ -1,10 +1,10 @@
 {
-  "version": "1.10.7",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.7/AmazonRPAPanel-Setup.exe",
-  "sha256": "374f474f4adb5e67a8b617e99a4a3b971d876618d4eff98ee44c17ead0d6dee7",
-  "size": 116404861,
-  "notes": "v1.10.7 : onglet Suivi (plus test), Valider tous, guide employe. Setup toujours non signe (pas de certificat PFX).",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.7/AmazonRPAPanel-patch-1.10.7.zip",
-  "patchSha256": "61631fc2f218b363bbb59297a5c93385672c5544782344896b7d8ff7caac1048",
-  "patchSize": 945131
+  "version": "1.10.8",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.8/AmazonRPAPanel-Setup.exe",
+  "sha256": "c19b41dd5692be9b72208970464f164a8e6788a3c78526189ac9a9d76561cfff",
+  "size": 116467816,
+  "notes": "v1.10.8 : Nouveau profil Ads, correctifs Suivi/mail/CDP, stabilite panel. Setup toujours non signe (pas de certificat PFX).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.8/AmazonRPAPanel-patch-1.10.8.zip",
+  "patchSha256": "ced8aa9ad1b0ea3120949ce5ff1fa339e61cb8499aa1a69dbc3883828731aa7b",
+  "patchSize": 979667
 }
