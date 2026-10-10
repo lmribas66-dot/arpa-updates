@@ -1,10 +1,10 @@
 {
-  "version": "1.10.9",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.9/AmazonRPAPanel-Setup.exe",
-  "sha256": "dd882a67d610fa877298530e734e5a9be28ab3d5683f6980f1ec42fee35f28b8",
-  "size": 116507168,
-  "notes": "v1.10.9 : proxy AdsPower lie (fbcc_proxy_acc_id), Commande pickup/ChangeDelivery/changename, anti-boucle CTA domicile. Setup non signe.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.9/AmazonRPAPanel-patch-1.10.9.zip",
-  "patchSha256": "502e271cee8f2d7885852c8c0454070207c7c288f174e14616667fb85cc78780",
-  "patchSize": 989232
+  "version": "1.10.10",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.10/AmazonRPAPanel-Setup.exe",
+  "sha256": "51c4256009fefe25da8d13f959be44c84e073473ebf3c367ab686551055d898c",
+  "size": 116459559,
+  "notes": "v1.10.10 : lancement echelonne AdsPower, prepare proxies session, watchdog 10 min + raisons UI, rodage min 3 recherches, log wishlist skip, SERP waitResults soft-continue. Setup non signe.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.10/AmazonRPAPanel-patch-1.10.10.zip",
+  "patchSha256": "1bb8858b5a120829fb0c1e03cf795ff0734a0db234218d1c2245852d10b09f6b",
+  "patchSize": 991939
 }
