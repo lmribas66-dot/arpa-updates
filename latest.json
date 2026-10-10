@@ -1,10 +1,10 @@
 {
-  "version": "1.10.12",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.12/AmazonRPAPanel-Setup.exe",
-  "sha256": "244e00af34e12990851528da6518e770a4d0e3e19c4926382ba2028a29bd64a8",
-  "size": 116470781,
-  "notes": "v1.10.12 : modeles commande par profil (ASIN + pickup + nom CB), prechargement a la selection, memo apres succes. Setup non signe.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.12/AmazonRPAPanel-patch-1.10.12.zip",
-  "patchSha256": "34c25751be39ae37f1bb92bbf1fc9a668345bb6d25435d0a8431982d3c38a8d9",
-  "patchSize": 994753
+  "version": "1.10.13",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.13/AmazonRPAPanel-Setup.exe",
+  "sha256": "c143fc91ec78e879c1c6c08641635e1af85f8e6bf733dc7793090a9f5d64a035",
+  "size": 116451914,
+  "notes": "v1.10.13 : Commande anti-store (/dp/ASIN), verif ajout panier, repli cart desktop, CTA Deliver interdit.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.13/AmazonRPAPanel-patch-1.10.13.zip",
+  "patchSha256": "8aef3b61bfb41fd54550979fbbbdb4d7c64eafee6e571ec59b3fe7810f68a5b7",
+  "patchSize": 996842
 }
