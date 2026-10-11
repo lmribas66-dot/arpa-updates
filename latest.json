@@ -1,10 +1,10 @@
 {
-  "version": "1.10.13",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.13/AmazonRPAPanel-Setup.exe",
-  "sha256": "c143fc91ec78e879c1c6c08641635e1af85f8e6bf733dc7793090a9f5d64a035",
-  "size": 116451914,
-  "notes": "v1.10.13 : Commande anti-store (/dp/ASIN), verif ajout panier, repli cart desktop, CTA Deliver interdit.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.13/AmazonRPAPanel-patch-1.10.13.zip",
-  "patchSha256": "8aef3b61bfb41fd54550979fbbbdb4d7c64eafee6e571ec59b3fe7810f68a5b7",
-  "patchSize": 996842
+  "version": "1.10.14",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.14/AmazonRPAPanel-Setup.exe",
+  "sha256": "5b590145f8eb480972805fdc8bf10435365eccd92fe741fb7ff5a85760788ae4",
+  "size": 116471031,
+  "notes": "v1.10.14 : creation profil Ads (platform_account tableau), Suivi IMAP GMX sans timeout dossiers, messages d'erreur plus clairs.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.14/AmazonRPAPanel-patch-1.10.14.zip",
+  "patchSha256": "55a0a8c7673c117e2875ad8829ede198a0818c8a8b99343ed759b9167917de46",
+  "patchSize": 997784
 }
