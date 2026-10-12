@@ -1,10 +1,10 @@
 {
-  "version": "1.10.15",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.15/AmazonRPAPanel-Setup.exe",
-  "sha256": "fbc0aedaa74b970e4a1f7f3145e655ada5e06ff5c8e5f420b0eeece3e7327274",
-  "size": 116460216,
-  "notes": "v1.10.15 : creation profil (platform_account en tableau), Suivi IMAP GMX sans timeout dossiers, MAJ gelee affichee, durcissement commande, messages d'erreur plus clairs.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.15/AmazonRPAPanel-patch-1.10.15.zip",
-  "patchSha256": "a818312858f1924a59275a07d432f01de8322f6a44853a8f54d546e61ef3d624",
-  "patchSize": 997865
+  "version": "1.10.16",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.16/AmazonRPAPanel-Setup.exe",
+  "sha256": "030a4d754471f6965e5520a011f3241e68af5e79329a050eaca32521ae7e12ae",
+  "size": 116545724,
+  "notes": "v1.10.16 : sandbox durci (armement auto apres N min, refus de payer si le total commande n'est pas confirme, TTL sur la confirmation Telegram), suivi cycle de vie par profil, noms de profils AdsPower affiches.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.16/AmazonRPAPanel-patch-1.10.16.zip",
+  "patchSha256": "8339c14eac8a1e466e3f1a4e79608b82b8ba24dcb9da2c2f42a6a6b9b92ee475",
+  "patchSize": 1017146
 }
