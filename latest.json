@@ -1,10 +1,10 @@
 {
-  "version": "1.10.14",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.14/AmazonRPAPanel-Setup.exe",
-  "sha256": "5b590145f8eb480972805fdc8bf10435365eccd92fe741fb7ff5a85760788ae4",
-  "size": 116471031,
-  "notes": "v1.10.14 : creation profil Ads (platform_account tableau), Suivi IMAP GMX sans timeout dossiers, messages d'erreur plus clairs.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.14/AmazonRPAPanel-patch-1.10.14.zip",
-  "patchSha256": "55a0a8c7673c117e2875ad8829ede198a0818c8a8b99343ed759b9167917de46",
-  "patchSize": 997784
+  "version": "1.10.15",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.15/AmazonRPAPanel-Setup.exe",
+  "sha256": "fbc0aedaa74b970e4a1f7f3145e655ada5e06ff5c8e5f420b0eeece3e7327274",
+  "size": 116460216,
+  "notes": "v1.10.15 : creation profil (platform_account en tableau), Suivi IMAP GMX sans timeout dossiers, MAJ gelee affichee, durcissement commande, messages d'erreur plus clairs.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.15/AmazonRPAPanel-patch-1.10.15.zip",
+  "patchSha256": "a818312858f1924a59275a07d432f01de8322f6a44853a8f54d546e61ef3d624",
+  "patchSize": 997865
 }
