@@ -4,10 +4,7 @@
   "sha256": "981519ac098d773313cd9a9e6acf1c5eb338eb76c01ebf1524383af13df975cc",
   "size": 116478273,
   "notes": "v1.10.18 : telemetrie active (opt-in) + inbox d'activations (le panel non active signale son ID machine a l'editeur).",
-  "revoked": [
-    "aa7716c46f6349a5",
-    "d1259894b66c2550"
-  ],
+  "revoked": [],
   "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.18/AmazonRPAPanel-patch-1.10.18.zip",
   "patchSha256": "144b05380419d794cc1e7ded45058f3e3e799f788d22756ce78caa57248cab6f",
   "patchSize": 1255258
