@@ -1,10 +1,11 @@
 {
-  "version": "1.10.16",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.16/AmazonRPAPanel-Setup.exe",
-  "sha256": "030a4d754471f6965e5520a011f3241e68af5e79329a050eaca32521ae7e12ae",
-  "size": 116545724,
-  "notes": "v1.10.16 : sandbox durci (armement auto apres N min, refus de payer si le total commande n'est pas confirme, TTL sur la confirmation Telegram), suivi cycle de vie par profil, noms de profils AdsPower affiches.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.16/AmazonRPAPanel-patch-1.10.16.zip",
-  "patchSha256": "8339c14eac8a1e466e3f1a4e79608b82b8ba24dcb9da2c2f42a6a6b9b92ee475",
-  "patchSize": 1017146
+  "version": "1.10.17",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.17/AmazonRPAPanel-Setup.exe",
+  "sha256": "ff3d4d5603d5a4609ccbf10950c3d4c8f55257a3f88ea3a7ea969b3f24e6dca7",
+  "size": 116479524,
+  "notes": "v1.10.17 : point relais robuste (adresse hors-ville, champ CP, LP departement, nom Title Case, clic souris) ; licences (kill distant via le flux, essais, bouton Tout verifier, CGU, telemetrie opt-in).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.17/AmazonRPAPanel-patch-1.10.17.zip",
+  "patchSha256": "1cb9f44388da44280dacc98175a89b5f79f6256deb8cadd6e93aa67094716f37",
+  "patchSize": 1254044,
+  "revoked": []
 }
