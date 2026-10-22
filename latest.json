@@ -1,11 +1,13 @@
-{
-  "version": "1.10.18",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.18/AmazonRPAPanel-Setup.exe",
-  "sha256": "981519ac098d773313cd9a9e6acf1c5eb338eb76c01ebf1524383af13df975cc",
-  "size": 116478273,
-  "notes": "v1.10.18 : telemetrie active (opt-in) + inbox d'activations (le panel non active signale son ID machine a l'editeur).",
-  "revoked": [],
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.18/AmazonRPAPanel-patch-1.10.18.zip",
-  "patchSha256": "144b05380419d794cc1e7ded45058f3e3e799f788d22756ce78caa57248cab6f",
-  "patchSize": 1255258
+﻿{
+    "version":  "1.10.19",
+    "url":  "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.19/AmazonRPAPanel-Setup.exe",
+    "sha256":  "b332791ea66584944ff11249d2d59a277281de6034a15860b8b70831f38dd8c7",
+    "size":  116505812,
+    "notes":  "v1.10.19 : import de comptes (texte ou lien Anonympaste) et en lot, adresse en remarque AdsPower, proxy Geonix par profil, garde mots-cles vides, UI un ecran a la fois.",
+    "patchUrl":  "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.19/AmazonRPAPanel-patch-1.10.19.zip",
+    "patchSha256":  "7fcf6f7456e0ded64a68a7f47feee8df3d3484b309d5a74eb9b0eb38e4e9c26a",
+    "patchSize":  1265144,
+    "revoked":  [
+
+                ]
 }
