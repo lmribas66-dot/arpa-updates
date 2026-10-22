@@ -1,13 +1,12 @@
 {
-    "version":  "1.10.19",
-    "url":  "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.19/AmazonRPAPanel-Setup.exe",
-    "sha256":  "b332791ea66584944ff11249d2d59a277281de6034a15860b8b70831f38dd8c7",
-    "size":  116505812,
-    "notes":  "v1.10.19 : import de comptes (texte ou lien Anonympaste) et en lot, adresse en remarque AdsPower, proxy Geonix par profil, garde mots-cles vides, UI un ecran a la fois.",
-    "patchUrl":  "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.19/AmazonRPAPanel-patch-1.10.19.zip",
-    "patchSha256":  "7fcf6f7456e0ded64a68a7f47feee8df3d3484b309d5a74eb9b0eb38e4e9c26a",
-    "patchSize":  1265144,
-    "revoked":  [
-
-                ]
+  "version": "1.10.20",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.20/AmazonRPAPanel-Setup.exe",
+  "sha256": "a1feff532a6384f5e5ea0603d894e62e3dfc92cb7385ff3be89990ae301c4d9b",
+  "size": 116525090,
+  "notes": "v1.10.20 : cle API Geonix dans Reglages (solde, dates proxy, bouton proxy sans Nexus).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.20/AmazonRPAPanel-patch-1.10.20.zip",
+  "patchSha256": "3c48a1249a3cdf336425426506d11a054383fcfba0f1643904f64c53dcc77ceb",
+  "patchSize": 1038973
+,
+  "revoked": []
 }
