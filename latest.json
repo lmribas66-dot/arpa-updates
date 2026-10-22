@@ -6,7 +6,6 @@
   "notes": "v1.10.20 : cle API Geonix dans Reglages (solde, dates proxy, bouton proxy sans Nexus).",
   "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.20/AmazonRPAPanel-patch-1.10.20.zip",
   "patchSha256": "3c48a1249a3cdf336425426506d11a054383fcfba0f1643904f64c53dcc77ceb",
-  "patchSize": 1038973
-,
+  "patchSize": 1038973,
   "revoked": []
 }
