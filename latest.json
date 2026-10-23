@@ -1,11 +1,10 @@
 {
-  "version": "1.10.20",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.20/AmazonRPAPanel-Setup.exe",
-  "sha256": "a1feff532a6384f5e5ea0603d894e62e3dfc92cb7385ff3be89990ae301c4d9b",
-  "size": 116525090,
-  "notes": "v1.10.20 : cle API Geonix dans Reglages (solde, dates proxy, bouton proxy sans Nexus).",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.20/AmazonRPAPanel-patch-1.10.20.zip",
-  "patchSha256": "3c48a1249a3cdf336425426506d11a054383fcfba0f1643904f64c53dcc77ceb",
-  "patchSize": 1038973,
-  "revoked": []
+  "version": "1.10.21",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.21/AmazonRPAPanel-Setup.exe",
+  "sha256": "529eb8539863404736f3c7acb9258a4775b50fde0137739a955db13418956abf",
+  "size": 116557300,
+  "notes": "v1.10.21 : Mails Outlook+Telegram carte retrait/QR, rappel RF J+12 apres livraison prevue, notes/pastilles profil, timeline profil, Geonix renew 48h, zero-clic dossiers.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.21/AmazonRPAPanel-patch-1.10.21.zip",
+  "patchSha256": "47739c8f03c40097a9b3b34118d9a5516e9699d577454ce448e1d7f5cfcd7517",
+  "patchSize": 1085267
 }
