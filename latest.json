@@ -1,10 +1,10 @@
 {
-  "version": "1.10.22",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.22/AmazonRPAPanel-Setup.exe",
-  "sha256": "8f32d7e86b9b114e1803165bd31fb0456cb4c5b5f9b97293388b6560c40869ae",
-  "size": 116609533,
-  "notes": "v1.10.22 : Mails Outlook lisible + regroupement colis, fiche colis (copier/editer/Maps), fusion auto commande+suivi, point relais, UI Titanium.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.22/AmazonRPAPanel-patch-1.10.22.zip",
-  "patchSha256": "b1eb2a6d6999e2f041bade8c39d67c017f9a86af5b2494f0a122db0d5e0aa371",
-  "patchSize": 1107535
+  "version": "1.10.23",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.23/AmazonRPAPanel-Setup.exe",
+  "sha256": "915afcb3b85cee815b4ab83a0ea2e8f5b6b4bc79e0387ac20661c1b055e8c1e9",
+  "size": 116526395,
+  "notes": "v1.10.23 : Mails Outlook lisible, fiche colis (copier/editer/Maps), fusion dossiers, relais, sauvegarde auto config, UI Titanium.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.23/AmazonRPAPanel-patch-1.10.23.zip",
+  "patchSha256": "b749ccfe23786e10c03ee3eb5abb1b4c74516b08e79bcf4c34cafb894117c18b",
+  "patchSize": 1107513
 }
