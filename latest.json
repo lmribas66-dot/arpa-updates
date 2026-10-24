@@ -1,10 +1,10 @@
 {
-  "version": "1.10.26",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.26/AmazonRPAPanel-Setup.exe",
-  "sha256": "035219ec011d738fe105026f67e717b1de08126734d475842edd48933ba7541d",
-  "size": 116637981,
-  "notes": "v1.10.26 : import mail depuis lien (profils existants) + notes post-it + Outlook warm 2e compte.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.26/AmazonRPAPanel-patch-1.10.26.zip",
-  "patchSha256": "87b0e86ca93fc0469a22124e19e03d6e5948a30e1c82c9fbb97f5af4e024d61e",
-  "patchSize": 1119197
+  "version": "1.10.27",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.27/AmazonRPAPanel-Setup.exe",
+  "sha256": "ebd14f537156176969f59d7aac9a164ba0e3a7a0d3179a77ddcecc006d94fc68",
+  "size": 116602503,
+  "notes": "v1.10.27 : Geonix — commentaire = nom/prénom du compte (plus l'id Ads).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.27/AmazonRPAPanel-patch-1.10.27.zip",
+  "patchSha256": "ccf41053a4e4605a50680b208cd97f9003cf3c77e0e233af0cfe6047c3a3fefd",
+  "patchSize": 1119798
 }
