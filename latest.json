@@ -1,10 +1,10 @@
 {
-  "version": "1.10.23",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.23/AmazonRPAPanel-Setup.exe",
-  "sha256": "915afcb3b85cee815b4ab83a0ea2e8f5b6b4bc79e0387ac20661c1b055e8c1e9",
-  "size": 116526395,
-  "notes": "v1.10.23 : Mails Outlook lisible, fiche colis (copier/editer/Maps), fusion dossiers, relais, sauvegarde auto config, UI Titanium.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.23/AmazonRPAPanel-patch-1.10.23.zip",
-  "patchSha256": "b749ccfe23786e10c03ee3eb5abb1b4c74516b08e79bcf4c34cafb894117c18b",
-  "patchSize": 1107513
+  "version": "1.10.24",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.24/AmazonRPAPanel-Setup.exe",
+  "sha256": "bce2978952e5eadb77133ffc277365f123c88be2dfa20745c73dd3298bf4dd84",
+  "size": 116530561,
+  "notes": "v1.10.24 : plus de notif Telegram mails ; Outlook multi-reconnect ; mails fiche/Titanium.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.24/AmazonRPAPanel-patch-1.10.24.zip",
+  "patchSha256": "a713223b2685c6f80b1366d1299e62447b388bfc468310c3ab455e59728a2dbf",
+  "patchSize": 1108600
 }
