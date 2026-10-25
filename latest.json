@@ -1,10 +1,10 @@
 {
-  "version": "1.10.35",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.35/AmazonRPAPanel-Setup.exe",
-  "sha256": "b8a5566440089db90fcab7324ff3cb1c90231e910abf407ccd410c3d78dac3e8",
-  "size": 116596452,
-  "notes": "v1.10.35 : sante des boites mail + barre de progress Outlook (lecture multi-comptes visible).",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.35/AmazonRPAPanel-patch-1.10.35.zip",
-  "patchSha256": "b6f1f3116f7ff2f1b0411c95d823701f0804ee79c3a3674f62f5df2fa25edf1c",
-  "patchSize": 1135179
+  "version": "1.10.36",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.36/AmazonRPAPanel-Setup.exe",
+  "sha256": "e02eb3270354d1842df7ee9622283772e6baea1bd7a29a8bc5ef7d13bd2bd186",
+  "size": 116645964,
+  "notes": "v1.10.36 : board colis landing, relais a retirer, pastilles compte, timeline rail, fusion, apercu paste, undo import 5 min.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.36/AmazonRPAPanel-patch-1.10.36.zip",
+  "patchSha256": "6877c341018c403f253136c9ba9a643412077889c54aea2b22de0d256cb7abca",
+  "patchSize": 1144483
 }
