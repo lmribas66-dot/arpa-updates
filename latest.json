@@ -1,10 +1,10 @@
 {
-  "version": "1.10.31",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.31/AmazonRPAPanel-Setup.exe",
-  "sha256": "f7a8b644b2f76dcfc46761ebcc3a06f920711c4930871496ae1b0f935f15cb83",
-  "size": 116553204,
-  "notes": "v1.10.31 : import mail multi-liens (comme profils) + board colis 1 commande / dates stables.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.31/AmazonRPAPanel-patch-1.10.31.zip",
-  "patchSha256": "5b9796d4fb9cbdb0ecfa0a798d9cdc31e231ecfd4de1a9ad3fcbd45d8cbe9257",
-  "patchSize": 1128600
+  "version": "1.10.32",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.32/AmazonRPAPanel-Setup.exe",
+  "sha256": "9b543bf7cc47018dbe16a0c0f19b113adc283271a7145caadae7462a7cb1297d",
+  "size": 116627469,
+  "notes": "v1.10.32 : Outlook multi-comptes parallele, login auto, fix HTTP 401 ; import mail multi-liens ; board colis 1 commande.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.32/AmazonRPAPanel-patch-1.10.32.zip",
+  "patchSha256": "c679ff10a82132c399817f736fd7319206cbe7a5a675f2f183ca7733c9ec8e39",
+  "patchSize": 1131678
 }
