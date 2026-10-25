@@ -1,10 +1,10 @@
 {
-  "version": "1.10.28",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.28/AmazonRPAPanel-Setup.exe",
-  "sha256": "8fd0b928c5672c4b98c699306715120064b7b84d0d2089150a80f8ff5461154f",
-  "size": 116540982,
-  "notes": "v1.10.28 : board suivi B2+ (Cmd/Expédié/Arrivé + dates) + liaison colis persistante.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.28/AmazonRPAPanel-patch-1.10.28.zip",
-  "patchSha256": "7d54993f9dd549c1cefa091a2bfad2f4e7e1be1c3e06da5eefc808eff7dfd028",
-  "patchSize": 1125557
+  "version": "1.10.29",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.29/AmazonRPAPanel-Setup.exe",
+  "sha256": "2457f6f0082f3a8bcec20933639daf22e1086bf6938dc158bf4972979aa8159f",
+  "size": 116623568,
+  "notes": "v1.10.29 : board B2+ sync après Mails + résumé colis aligné timeline (article/commande).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.29/AmazonRPAPanel-patch-1.10.29.zip",
+  "patchSha256": "2acb13a9d98a0b253e4dcb88eaa1d26911ca24131347b4b9be8c7827f094a80e",
+  "patchSize": 1126225
 }
