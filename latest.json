@@ -1,10 +1,10 @@
 {
-  "version": "1.10.32",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.32/AmazonRPAPanel-Setup.exe",
-  "sha256": "9b543bf7cc47018dbe16a0c0f19b113adc283271a7145caadae7462a7cb1297d",
-  "size": 116627469,
-  "notes": "v1.10.32 : Outlook multi-comptes parallele, login auto, fix HTTP 401 ; import mail multi-liens ; board colis 1 commande.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.32/AmazonRPAPanel-patch-1.10.32.zip",
-  "patchSha256": "c679ff10a82132c399817f736fd7319206cbe7a5a675f2f183ca7733c9ec8e39",
-  "patchSize": 1131678
+  "version": "1.10.33",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.33/AmazonRPAPanel-Setup.exe",
+  "sha256": "593543d45d0d8848ccf6c2ef579d6b9ec4146b4275924c57eec389e270e6528c",
+  "size": 116585947,
+  "notes": "v1.10.33 : Nouveau profil — mdp AdsPower = Amazon (plus le mdp mail).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.33/AmazonRPAPanel-patch-1.10.33.zip",
+  "patchSha256": "6cd4b9aed0c97cd76872abd8411e5764c1d4c313fc4ca9e2c6661a9b40a2f025",
+  "patchSize": 1131759
 }
