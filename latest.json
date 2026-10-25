@@ -1,10 +1,10 @@
 {
-  "version": "1.10.29",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.29/AmazonRPAPanel-Setup.exe",
-  "sha256": "2457f6f0082f3a8bcec20933639daf22e1086bf6938dc158bf4972979aa8159f",
-  "size": 116623568,
-  "notes": "v1.10.29 : board B2+ sync après Mails + résumé colis aligné timeline (article/commande).",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.29/AmazonRPAPanel-patch-1.10.29.zip",
-  "patchSha256": "2acb13a9d98a0b253e4dcb88eaa1d26911ca24131347b4b9be8c7827f094a80e",
-  "patchSize": 1126225
+  "version": "1.10.31",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.31/AmazonRPAPanel-Setup.exe",
+  "sha256": "f7a8b644b2f76dcfc46761ebcc3a06f920711c4930871496ae1b0f935f15cb83",
+  "size": 116553204,
+  "notes": "v1.10.31 : import mail multi-liens (comme profils) + board colis 1 commande / dates stables.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.31/AmazonRPAPanel-patch-1.10.31.zip",
+  "patchSha256": "5b9796d4fb9cbdb0ecfa0a798d9cdc31e231ecfd4de1a9ad3fcbd45d8cbe9257",
+  "patchSize": 1128600
 }
