@@ -1,10 +1,10 @@
 {
-  "version": "1.10.33",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.33/AmazonRPAPanel-Setup.exe",
-  "sha256": "593543d45d0d8848ccf6c2ef579d6b9ec4146b4275924c57eec389e270e6528c",
-  "size": 116585947,
-  "notes": "v1.10.33 : Nouveau profil — mdp AdsPower = Amazon (plus le mdp mail).",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.33/AmazonRPAPanel-patch-1.10.33.zip",
-  "patchSha256": "6cd4b9aed0c97cd76872abd8411e5764c1d4c313fc4ca9e2c6661a9b40a2f025",
-  "patchSize": 1131759
+  "version": "1.10.34",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.34/AmazonRPAPanel-Setup.exe",
+  "sha256": "6382ee498184258c6aeb5b0b25bc0d821d1a74b5206ad4594bca6937c6a2fa74",
+  "size": 116568117,
+  "notes": "v1.10.34 : mdp Amazon/mail bien separes (creation + maj mail) ; libelles paste elargis.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.34/AmazonRPAPanel-patch-1.10.34.zip",
+  "patchSha256": "2b8b5283a8481b10ed738165702f7e690d6343e8bd524a6c261daa2972b991b4",
+  "patchSize": 1132236
 }
