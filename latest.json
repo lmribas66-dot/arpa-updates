@@ -1,10 +1,10 @@
 {
-  "version": "1.10.27",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.27/AmazonRPAPanel-Setup.exe",
-  "sha256": "ebd14f537156176969f59d7aac9a164ba0e3a7a0d3179a77ddcecc006d94fc68",
-  "size": 116602503,
-  "notes": "v1.10.27 : Geonix — commentaire = nom/prénom du compte (plus l'id Ads).",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.27/AmazonRPAPanel-patch-1.10.27.zip",
-  "patchSha256": "ccf41053a4e4605a50680b208cd97f9003cf3c77e0e233af0cfe6047c3a3fefd",
-  "patchSize": 1119798
+  "version": "1.10.28",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.28/AmazonRPAPanel-Setup.exe",
+  "sha256": "8fd0b928c5672c4b98c699306715120064b7b84d0d2089150a80f8ff5461154f",
+  "size": 116540982,
+  "notes": "v1.10.28 : board suivi B2+ (Cmd/Expédié/Arrivé + dates) + liaison colis persistante.",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.28/AmazonRPAPanel-patch-1.10.28.zip",
+  "patchSha256": "7d54993f9dd549c1cefa091a2bfad2f4e7e1be1c3e06da5eefc808eff7dfd028",
+  "patchSize": 1125557
 }
