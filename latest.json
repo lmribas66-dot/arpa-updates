@@ -1,10 +1,10 @@
 {
-  "version": "1.10.34",
-  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.34/AmazonRPAPanel-Setup.exe",
-  "sha256": "6382ee498184258c6aeb5b0b25bc0d821d1a74b5206ad4594bca6937c6a2fa74",
-  "size": 116568117,
-  "notes": "v1.10.34 : mdp Amazon/mail bien separes (creation + maj mail) ; libelles paste elargis.",
-  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.34/AmazonRPAPanel-patch-1.10.34.zip",
-  "patchSha256": "2b8b5283a8481b10ed738165702f7e690d6343e8bd524a6c261daa2972b991b4",
-  "patchSize": 1132236
+  "version": "1.10.35",
+  "url": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.35/AmazonRPAPanel-Setup.exe",
+  "sha256": "b8a5566440089db90fcab7324ff3cb1c90231e910abf407ccd410c3d78dac3e8",
+  "size": 116596452,
+  "notes": "v1.10.35 : sante des boites mail + barre de progress Outlook (lecture multi-comptes visible).",
+  "patchUrl": "https://github.com/lmribas66-dot/arpa-updates/releases/download/v1.10.35/AmazonRPAPanel-patch-1.10.35.zip",
+  "patchSha256": "b6f1f3116f7ff2f1b0411c95d823701f0804ee79c3a3674f62f5df2fa25edf1c",
+  "patchSize": 1135179
 }
